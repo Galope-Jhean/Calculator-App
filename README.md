@@ -6,7 +6,8 @@
  
 ### This is a simple program I created using C++. 
 
-A Calculator with a modern design
+A Calculator with a modern design inspired by</br>
+one of the challenges from frontendmentor.io
 
 This app can basically do anything a simple calculator would do
 
