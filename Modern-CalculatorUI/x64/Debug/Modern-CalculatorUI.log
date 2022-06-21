@@ -1,0 +1,5 @@
+﻿  CalculatorUI.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  CalculatorUI.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Modern-CalculatorUI.vcxproj -> C:\Users\Jhean\source\repos\Modern-CalculatorUI\x64\Debug\Modern-CalculatorUI.exe

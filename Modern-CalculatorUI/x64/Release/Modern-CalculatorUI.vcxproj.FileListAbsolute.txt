@@ -1,0 +1,4 @@
+C:\Users\Jhean\source\repos\Modern-CalculatorUI\Modern-CalculatorUI\x64\Release\Modern-CalculatorUI.vcxproj.AssemblyReference.cache
+C:\Users\Jhean\source\repos\Modern-CalculatorUI\Modern-CalculatorUI\x64\Release\Modern-CalculatorUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jhean\source\repos\Modern-CalculatorUI\Modern-CalculatorUI\x64\Release\ModernCalculatorUI.CalculatorUI.resources
+C:\Users\Jhean\source\repos\Modern-CalculatorUI\Modern-CalculatorUI\x64\Release\Modern-CalculatorUI.vcxproj.GenerateResource.cache
