@@ -1,4 +1,4 @@
-# ModernUI-Calculator👌
+# Calculator App👌
 
 ## 👋Welcome!👋
 
